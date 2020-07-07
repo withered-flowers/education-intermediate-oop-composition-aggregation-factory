@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+theme: jekyll-theme-cayman
+title: Composition, Aggregation, and Factory
+baseurl: "education-intermediate-oop-composition-aggregation-factory"
+url: ""
