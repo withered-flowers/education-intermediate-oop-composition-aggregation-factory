@@ -15,7 +15,7 @@ merupakan sesuatu yang bernama `TextLabel` dan `Button`.
 Keduanya ini merupakan *anakan* dari sesuatu yang bernama `Widget`.
 
 Maka, apabila didefinisikan dalam bentuk OOP, maka kita dapat menuliskan
-keempatnya, dengan cara sebagai berikut:
+ketiganya, dengan cara sebagai berikut:
 
 ```javascript
 // File: 01-recap-oop.js
@@ -232,7 +232,7 @@ console.log(menuBars);
 ```
 
 Kalau menulis seperti ini cukup *pegel* bukan? Kurang efisien bukan?
-Bayangkan kalau ada 10 yang akan kita tulis, tangan bisa jadi keriting* bukan?
+Bayangkan kalau ada 10 yang akan kita tulis, tangan bisa jadi *keriting* bukan?
 
 Bagaimana cara kita mengakalinya?
 
